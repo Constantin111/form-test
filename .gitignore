@@ -1,0 +1,11 @@
+.idea/
+.htaccess
+composer.json
+composer.lock
+composer.phar
+
+debug_log.txt
+
+*.bak
+*.sql
+*.map

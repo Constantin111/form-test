@@ -1,0 +1,47 @@
+
+
+.pages__wrap {
+
+}
+
+
+
+header {
+    background: #9fcdff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+}
+
+h1 {
+    color: red;
+}
+
+
+
+main {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.user__field {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.nav__user__wrap li {
+    list-style: none;
+}
+
+.form__user__allData__wrap {
+    width: 100%;
+    max-width: 600px;
+}
+
+.user__field:last-child {
+    color: red;
+}
+
+
